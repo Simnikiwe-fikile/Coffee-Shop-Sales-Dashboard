@@ -2,9 +2,9 @@
 This **Power BI dashboard** provides visual insights into the sales performance of a coffee shop. It helps stakeholders to make informed decisions by anlysing trends across products,time periods,and payement type breakdown.
 
 ## Project Overview
-- **Objective**:
-- **Dataset**:
-- **Tools Used**:
+- **Objective**: Analyse purchasing patterns, sales trends, and customer preferences related to coffee products.
+- **Dataset**: Included in 'coffee_shop.xlsx' (from Kaggle dataset)
+- **Tools Used**: Microsoft Power BI, DAX (measures)
 
 ## Features
 - **Sales Overview**: Total revenue, number of transactions, and average order value.
@@ -30,4 +30,4 @@ This **Power BI dashboard** provides visual insights into the sales performance 
 
 ### Navigation & Structure
 - Dashboard is organised into multiple visuals, each exploring different factor.
-- Users can use interactive filters to interact with the visualisations dynamically, which makes it easier for stakeholders to makes data-driven decisions by analysing the trends.
+- Users can use interactive filters to interact with the visualisations dynamically, which makes it easier for stakeholders to make data-driven decisions by analysing the trends.
