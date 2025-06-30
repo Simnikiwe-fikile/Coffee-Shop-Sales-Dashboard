@@ -1,5 +1,5 @@
 # Coffee Shop Sales Dashboard
-This **Power BI dashboard** provides visual insights into the sales performance of a coffee shop. It helps stakeholders to make informed decisions by anlysing trends across products,time periods,and payement type breakdown.
+This **Power BI dashboard** provides visual insights into the sales performance of a coffee shop. It helps stakeholders to make informed decisions by anlysing trends across products,time periods, and payment type breakdown.
 
 ## Project Overview
 - **Objective**: Analyse purchasing patterns, sales trends, and customer preferences related to coffee products.
